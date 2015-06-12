@@ -341,19 +341,19 @@ html, body {
 #uranus {
     /* Style your earth */
     position: absolute;
-    top: 15.3%;
-    left: 15.3%;
+    top: 15%;
+    left: 15%;
 
     height: 20px;
     width: 20px;
     margin-left: -25px;
     margin-top: -25px;
 
-    -webkit-animation: spin-left 5s linear infinite;
-     -moz-animation: spin-left 5s linear infinite;
-      -ms-animation: spin-left 5s linear infinite;
-       -o-animation: spin-left 5s linear infinite;
-          animation: spin-left 5s linear infinite;
+    -webkit-animation: spin-right -5s linear infinite;
+     -moz-animation: spin-right -5s linear infinite;
+      -ms-animation: spin-right -5s linear infinite;
+       -o-animation: spin-right -5s linear infinite;
+          animation: spin-right -5s linear infinite;
 }
 
 #uranus-orbit {
