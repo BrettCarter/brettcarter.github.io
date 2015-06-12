@@ -162,10 +162,10 @@ html, body {
     margin-top: -250px;
     margin-left: -250px;
 
-    border-width: 1px;
+    /*border-width: 1px;
     border-style: dotted;
     border-color: white;
-    border-radius: 50%;
+    border-radius: 50%;*/
 
     -webkit-animation: spin-right 30s linear infinite;
      -moz-animation: spin-right 30s linear infinite;
@@ -326,10 +326,10 @@ html, body {
     margin-top: -1050px;
     margin-left: -1050px;
 
-    border-width: 2px;
+    /*border-width: 2px;
     border-style: dotted;
     border-color: white;
-    border-radius: 50%;
+    border-radius: 50%;*/
 
     -webkit-animation: spin-right 180s linear infinite;
      -moz-animation: spin-right 180s linear infinite;
@@ -367,10 +367,10 @@ html, body {
     margin-top: -1350px;
     margin-left: -1350px;
 
-    border-width: 2px;
+    /*border-width: 2px;
     border-style: dotted;
     border-color: white;
-    border-radius: 50%;
+    border-radius: 50%;*/
 
     -webkit-animation: spin-right 220s linear infinite;
      -moz-animation: spin-right 220s linear infinite;
@@ -408,10 +408,10 @@ html, body {
     margin-top: -1700px;
     margin-left: -1700px;
 
-    border-width: 2px;
+    /*border-width: 2px;
     border-style: dotted;
     border-color: white;
-    border-radius: 50%;
+    border-radius: 50%;*/
 
     -webkit-animation: spin-right 270s linear infinite;
      -moz-animation: spin-right 270s linear infinite;
@@ -449,10 +449,10 @@ html, body {
     margin-top: -2100px;
     margin-left: -2100px;
 
-    border-width: 2px;
+    /*border-width: 2px;
     border-style: dotted;
     border-color: white;
-    border-radius: 50%;
+    border-radius: 50%;*/
 
     -webkit-animation: spin-right 340s linear infinite;
      -moz-animation: spin-right 340s linear infinite;
