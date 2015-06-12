@@ -382,8 +382,8 @@ html, body {
 #neptune {
     /* Style your earth */
     position: absolute;
-    top: 15.1%;
-    left: 15.1%;
+    top: 15%;
+    left: 15%;
 
     height: 17px;
     width: 17px;
@@ -444,10 +444,10 @@ html, body {
     top: 50%;
     left: 50%;
 
-    width: 4400px;
-    height: 4400px;
-    margin-top: -2200px;
-    margin-left: -2200px;
+    width: 4200px;
+    height: 4200px;
+    margin-top: -2100px;
+    margin-left: -2100px;
 
     border-width: 2px;
     border-style: dotted;
