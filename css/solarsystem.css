@@ -379,6 +379,47 @@ html, body {
           animation: spin-right 220s linear infinite;
 }
 
+#neptune {
+    /* Style your earth */
+    position: absolute;
+    top: 15.2%;
+    left: 15.2%;
+
+    height: 17px;
+    width: 17px;
+    margin-left: -25px;
+    margin-top: -25px;
+
+    -webkit-animation: spin-right 5s linear infinite;
+     -moz-animation: spin-right 5s linear infinite;
+      -ms-animation: spin-right 5s linear infinite;
+       -o-animation: spin-right 5s linear infinite;
+          animation: spin-right 5s linear infinite;
+}
+
+#neptune-orbit {
+    /* For Section #2 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 3400px;
+    height: 3400px;
+    margin-top: -1700px;
+    margin-left: -1700px;
+
+    border-width: 2px;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50%;
+
+    -webkit-animation: spin-right 270s linear infinite;
+     -moz-animation: spin-right 270s linear infinite;
+      -ms-animation: spin-right 270s linear infinite;
+       -o-animation: spin-right 270s linear infinite;
+          animation: spin-right 270s linear infinite;
+}
+
 @-webkit-keyframes spin-right {
   100% {
     -webkit-transform: rotate(360deg);
