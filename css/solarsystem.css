@@ -290,11 +290,11 @@ html, body {
     border-color: white;
     border-radius: 50%;*/
 
-    -webkit-animation: spin-right 150s linear infinite;
-     -moz-animation: spin-right 150s linear infinite;
-      -ms-animation: spin-right 150s linear infinite;
-       -o-animation: spin-right 150s linear infinite;
-          animation: spin-right 150s linear infinite;
+    -webkit-animation: spin-right 130s linear infinite;
+     -moz-animation: spin-right 130s linear infinite;
+      -ms-animation: spin-right 130s linear infinite;
+       -o-animation: spin-right 130s linear infinite;
+          animation: spin-right 130s linear infinite;
 }
 
 #saturn {
@@ -336,6 +336,47 @@ html, body {
       -ms-animation: spin-right 180s linear infinite;
        -o-animation: spin-right 180s linear infinite;
           animation: spin-right 180s linear infinite;
+}
+
+#uranus {
+    /* Style your earth */
+    position: absolute;
+    top: 15.3%;
+    left: 15.3%;
+
+    height: 20px;
+    width: 20px;
+    margin-left: -25px;
+    margin-top: -25px;
+
+    -webkit-animation: spin-left 5s linear infinite;
+     -moz-animation: spin-left 5s linear infinite;
+      -ms-animation: spin-left 5s linear infinite;
+       -o-animation: spin-left 5s linear infinite;
+          animation: spin-left 5s linear infinite;
+}
+
+#uranus-orbit {
+    /* For Section #2 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 2700px;
+    height: 2700px;
+    margin-top: -1350px;
+    margin-left: -1350px;
+
+    border-width: 2px;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50%;
+
+    -webkit-animation: spin-right 220s linear infinite;
+     -moz-animation: spin-right 220s linear infinite;
+      -ms-animation: spin-right 220s linear infinite;
+       -o-animation: spin-right 220s linear infinite;
+          animation: spin-right 220s linear infinite;
 }
 
 @-webkit-keyframes spin-right {
