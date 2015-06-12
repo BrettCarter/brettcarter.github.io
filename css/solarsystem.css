@@ -382,8 +382,8 @@ html, body {
 #neptune {
     /* Style your earth */
     position: absolute;
-    top: 15%;
-    left: 15%;
+    top: 15.05%;
+    left: 15.05%;
 
     height: 17px;
     width: 17px;
@@ -423,8 +423,8 @@ html, body {
 #pluto {
     /* Style your earth */
     position: absolute;
-    top: 15.1%;
-    left: 15.1%;
+    top: 15.15%;
+    left: 15.15%;
 
     height: 5px;
     width: 5px;
